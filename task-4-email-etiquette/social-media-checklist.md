@@ -26,4 +26,4 @@
 5. Never share your passwords or OTPs with anyone
 
 ## Created By
-Satyam Singh | VIT Bhopal University
+Saumy Gupta | VIT Bhopal University
