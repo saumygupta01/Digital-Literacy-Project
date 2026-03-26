@@ -1,10 +1,4 @@
 
-**VIT Bhopal University**
-
-VITyarthi E-Learning Platform
-
-**CSE0001 – Digital Literacy**
-
 **Project Report**
 
 **Name:** Saumy Gupta
@@ -18,8 +12,6 @@ VITyarthi E-Learning Platform
 **Institution:** VIT Bhopal University
 
 **Course Code:** CSE0001 – Digital Literacy
-
-**Date:** 21 March 2026
 
 
 # **Introduction**
